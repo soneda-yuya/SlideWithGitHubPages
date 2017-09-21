@@ -4,8 +4,9 @@
 
 ---
 
-## Slide URL
-- http://yamap55.github.io/SlideWithGitHubPages/index.html?slide=example/slide1.md
+## サーバー構成
+
+![image](img/zero_server.jpg)
 
 ---
 
@@ -47,7 +48,7 @@ public class HelloWorld {
 
 ## image2 img/img2.jpg
 
-![image](img/img2.jpg)
+![image](img/zero_server.jpg)
 
 ---
 
