@@ -6,7 +6,7 @@
 
 ## サーバー構成
 
-![image](img/zero_server.jpg)
+![image](https://github.com/soneda-yuya/SlideWithGitHubPages/blob/master/example/img/zero_server.jpg)
 
 ---
 
